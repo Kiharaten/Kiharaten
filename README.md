@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Kiharaten&color=green)
+![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)
 <!--
 **Kiharaten/Kiharaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
