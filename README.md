@@ -4,7 +4,7 @@
 <a href="https://github.com/Kiharaten/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=3&theme=dracula" />
 </a>  
-<img align="left" src="https://komarev.com/ghpvc/?username=Kiharaten&color=black" />
+<!-- <img align="left" src="https://komarev.com/ghpvc/?username=Kiharaten&color=black" /> -->
 <!-- ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen) -->
 
 <!--
