@@ -1,12 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiharaten&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiharaten&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten" />
+</a>
 ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
-</a>
-
 <!--
 **Kiharaten/Kiharaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
