@@ -1,7 +1,6 @@
 <a href="https://github.com/Kiharaten/VirtualClassRoom/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiharaten&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Kiharaten/VirtualClassRoom/">
+</a><a href="https://github.com/Kiharaten/VirtualClassRoom/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=3" />
 </a>
 <!-- ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen) -->
