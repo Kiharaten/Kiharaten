@@ -2,7 +2,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiharaten&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Kiharaten/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=3&theme=dracula" />
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=3&theme=dracula" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=10&theme=dracula&layout=compact&card_width=0.5" />
 </a>  
 <img align="left" src="https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen" />
 <!-- ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen) -->
