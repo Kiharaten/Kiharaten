@@ -3,7 +3,7 @@
 </a>
 <a href="https://github.com/Kiharaten/VirtualClassRoom/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten" />
-</a>  
+</a><br>
 ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)
 
 <!--
