@@ -1,10 +1,10 @@
 <a href="https://github.com/Kiharaten/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiharaten&count_private=true&show_icons=true&theme=dracula&card_width=100" />
-  <img align="left" src="https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen" />
 </a>
 <a href="https://github.com/Kiharaten/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=4&theme=dracula" />
-</a>
+</a>  
+<img align="left" src="https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen" />
 <!-- ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen) -->
 
 <!--
