@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Kiharaten/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiharaten&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Kiharaten/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten" />
 </a>  
 ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)
