@@ -4,7 +4,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten" />
 </a>
-![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)
+
+[![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen)]
 <!--
 **Kiharaten/Kiharaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
